@@ -111,23 +111,11 @@ python -m spacy download en_core_web_sm
 
 ---
 
-## 💡 Notes & Assumptions
-
-- Each sentence is considered independently.
-- If both disease and treatment appear in a sentence, they are mapped.
-- Treatments can apply to multiple diseases.
-- Only noun-related tokens are used to identify concepts.
-
----
-
-## 📄 License
-
-This is a capstone NLP assignment provided as part of the upGrad AI/ML learning module.
-
----
 
 
-## 🔍 Suggested Treatment Plan
+
+# 🔍 Suggested Treatment Plan
+
 ────────────────────────────
 🦠 Disease: **Hereditary Retinoblastoma**
 
