@@ -117,12 +117,14 @@ python -m spacy download en_core_web_sm
 # 🔍 Suggested Treatment Plan
 
 ────────────────────────────
+
 🦠 Disease: **Hereditary Retinoblastoma**
 
 💊 Recommended Treatments:
   1. Radiotherapy
 
 ✅ Please consult a medical professional before proceeding with any treatment.
+
 
 ## ✍️ Author
 **Sravana Sanka**
